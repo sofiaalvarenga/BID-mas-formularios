@@ -1,0 +1,32 @@
+body{
+    margin: 0 auto;
+    width: fit-content;
+}
+.user-form{
+    margin: 10px;
+}
+.data{
+    background-color: rgba(128, 128, 128, 0.301);
+    margin-block: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    border-radius: 5px;
+    height: 30px;
+    border-color: rgba(128, 128, 128, 0.363);
+    margin-left: 10px;
+}
+h4{
+    text-align: center;
+}
+h5{
+    font-style: italic ;
+    color: blueviolet;
+}
+.submit{
+    text-align: center;
+}
